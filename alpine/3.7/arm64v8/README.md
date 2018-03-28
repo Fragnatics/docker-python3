@@ -1,5 +1,5 @@
-[![Docker Stars](https://img.shields.io/docker/stars/fragnatics/docker-python3.svg?style=flat-square)](https://hub.docker.com/r/fragnatics/docker-python3/)
-[![Docker Pulls](https://img.shields.io/docker/pulls/fragnatics/docker-python3.svg?style=flat-square)](https://hub.docker.com/r/fragnatics/docker-python3/)
+[![Docker Stars](https://img.shields.io/docker/stars/fragnatics/python3.svg?style=flat-square)](https://hub.docker.com/r/fragnatics/docker-python3/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/fragnatics/python3.svg?style=flat-square)](https://hub.docker.com/r/fragnatics/docker-python3/)
 
 
 Python 3.6 Docker image
