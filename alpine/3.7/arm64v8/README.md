@@ -10,7 +10,7 @@ This image is based on Alpine Linux image, which is only a 5MB image, and contai
 
 Download size of this image is only:
 
-[![](https://images.microbadger.com/badges/image/fragnatics/docker-python3.svg)](http://microbadger.com/images/fragnatics/docker-python3 "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/image/fragnatics/python3.svg)](http://microbadger.com/images/fragnatics/docker-python3 "Get your own image badge on microbadger.com")
 
 
 Usage Example
