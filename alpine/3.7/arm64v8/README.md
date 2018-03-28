@@ -2,8 +2,8 @@
 [![Docker Pulls](https://img.shields.io/docker/pulls/fragnatics/python3.svg?style=flat-square)](https://hub.docker.com/r/fragnatics/docker-python3/)
 
 
-Python 3.6 Docker image
-=======================
+Python 3 Docker image
+=====================
 
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
 [Python 3](https://www.python.org/).
