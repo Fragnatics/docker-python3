@@ -1,4 +1,4 @@
-FROM arm64v8/alpine:3.7
+FROM arm64v8/alpine:3.6
 
 RUN apk add --no-cache python3 && \
     python3 -m ensurepip && \
