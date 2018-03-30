@@ -1,5 +1,8 @@
-FROM arm64v8/alpine:3.6
+FROM docker.io/project31/aarch64-alpine-qemu:3.5-7
 
+RUN [ "cross-build-start" ]
+
+MAINTAINER Frank Gnad <frank.gnad@fragnatics.de>
 RUN apk add --no-cache python3 && \
     python3 -m ensurepip && \
     rm -r /usr/lib/python*/ensurepip && \
@@ -9,3 +12,5 @@ RUN apk add --no-cache python3 && \
     rm -r /root/.cache
 
 CMD [ "python", "--version" ]
+
+RUN [ "cross-build-end" ]
